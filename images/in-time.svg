@@ -1,0 +1,15 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="109" height="23" viewBox="0 0 109 23">
+    <text y="23">
+        In
+    </text>
+    <text y="23" x="33" fill="#009688">
+        Time
+    </text>
+    <style>
+        #logo text {
+            font-family: Rubik, sans-serif;
+            font-weight: bold;
+            font-size: 32px;
+        }
+    </style>
+</svg>
